@@ -1,15 +1,15 @@
 # README Generator
 
-   ![Github license](https://img.shields.io/badge/license-GPL2.0-yellowgreen.svg)
+   ![Github license](https://img.shields.io/badge/license-BSD3Clause-yellowgreen.svg)
 
   ## Description
-  - Creates README files
+  - Generates dynamic README files
 
   ## Table of Contents
 
   - [License](#license)
   - [Installation](#installation-instructions)
-  - [Usage Information](#usage-information)
+  - [Usage](#usage-information)
   - [Contribution](#contributon-guidelines)
   - [Tests](#test-instructions)
   - [Questions](#questions)
@@ -28,9 +28,9 @@
 
   ## Questions
 
-  - If you have any questions about my repo feel free to email me at dave@brooks.com. 
-  - You can find more of my work at (https://github.com/dave123/).
+  - If you have any questions about my repo feel free to email me at david@brooksmail.com. 
+  - You can find more of my work at (https://github.com/brooksy236/).
   
 
   ## License
-  - GPL2.0
+  - BSD3Clause

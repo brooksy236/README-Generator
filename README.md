@@ -8,10 +8,10 @@
   ## Table of Contents
 
   - [License](#license)
-  - [Installation](#installation_instructions)
-  - [Usage](#usage_information)
-  - [Contribution](#contributon_guidelines)
-  - [Tests](#test_instructions)
+  - [Installation](#installation-instructions)
+  - [Usage](#usage-information)
+  - [Contribution](#contributon-guidelines)
+  - [Tests](#test-instructions)
   - [Questions](#questions)
 
   ## Installation Instructions
@@ -19,6 +19,8 @@
 
   ## Usage Information
   - You can use it for any project. This README was created with it!
+   
+   ![](assets/screenshot.JPG)
 
   ## Contributuon Guidelines
   - N/A
