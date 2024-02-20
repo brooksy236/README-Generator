@@ -10,7 +10,7 @@ function generateLicense(license) {
 function generateMarkdown(data) {
   return `# ${data.title}
 
-  - ${generateLicense(data.license)}
+   ${generateLicense(data.license)}
 
   ## Description
   - ${data.description}
