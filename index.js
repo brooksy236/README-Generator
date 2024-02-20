@@ -39,7 +39,7 @@ const questions = [
             type: 'list',
             message: 'Please choose a license:',
             name: 'license',
-            choices: ['MIT', 'Apache', 'GNU General Public License', 'BSD 2-Clause', 'BSD 3-Clause', 'Boost Software', 'Creative Commons Zero v1.0 Univeral', 'Eclipse Public', 'GNU Affero General Public', 'GNU Lesser General Public', 'Mozilla Public', 'The Unlicense', 'none' ]
+            choices: ['MIT', 'Apache-2.0', 'GPL-2.0', 'BSD-2-Clause', 'BSD-3-Clause', 'BSL-1.0', 'CC-1.0', 'EPL-1.0', 'AGPL-3.0', 'LGPL', 'MPL-2.0', 'Unlicense', 'none' ]
         },
         {
             type: 'input',
@@ -55,7 +55,7 @@ const questions = [
 
 // function to write README file
 function writeToFile(fileName, data) {
-    return fs.writeFileSync(path.join('./example', fileName), data);
+    return fs.writeFileSync(path.join('./example', fileName), data); // writes the new README to the 'example' folder
     
 }
 
