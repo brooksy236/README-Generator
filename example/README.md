@@ -1,6 +1,6 @@
 # README Generator
 
-   ![Github license](https://img.shields.io/badge/license-CC1.0-yellowgreen.svg)
+   ![Github license](https://img.shields.io/badge/license-GPL2.0-yellowgreen.svg)
 
   ## Description
   - Creates README files
@@ -8,14 +8,14 @@
   ## Table of Contents
 
   - [License](#license)
-  - [Installation](#installation_instructions)
-  - [Usage](#usage_information)
-  - [Contribution](#contributon_guidelines)
-  - [Tests](#test_instructions)
+  - [Installation](#installation-instructions)
+  - [Usage Information](#usage-information)
+  - [Contribution](#contributon-guidelines)
+  - [Tests](#test-instructions)
   - [Questions](#questions)
 
   ## Installation Instructions
-  - no
+  - none
 
   ## Usage Information
   - none
@@ -28,9 +28,9 @@
 
   ## Questions
 
-  - If you have any questions about my repo feel free to email me at dave@dave.com. 
-  - You can find more of my work at (https://github.com/dave/).
+  - If you have any questions about my repo feel free to email me at dave@brooks.com. 
+  - You can find more of my work at (https://github.com/dave123/).
   
 
   ## License
-  - Apache-2.0
+  - GPL2.0

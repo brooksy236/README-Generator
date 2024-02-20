@@ -18,10 +18,10 @@ function generateMarkdown(data) {
   ## Table of Contents
 
   - [License](#license)
-  - [Installation](#installation_instructions)
-  - [Usage](#usage_information)
-  - [Contribution](#contributon_guidelines)
-  - [Tests](#test_instructions)
+  - [Installation](#installation-instructions)
+  - [Usage](#usage-information)
+  - [Contribution](#contributon-guidelines)
+  - [Tests](#test-instructions)
   - [Questions](#questions)
 
   ## Installation Instructions
