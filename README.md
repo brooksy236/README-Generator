@@ -10,7 +10,7 @@
   - [License](#license)
   - [Installation](#installation-instructions)
   - [Usage](#usage-information)
-  - [Contribution](#contributon-guidelines)
+  - [Contribution](#contribution-guidelines)
   - [Tests](#test-instructions)
   - [Questions](#questions)
 
@@ -22,7 +22,9 @@
    
    ![](assets/screenshot.JPG)
 
-  ## Contributuon Guidelines
+   [Demo video](assets/demo.mp4)
+   
+  ## Contribution Guidelines
   - N/A
 
   ## Test Instructions
