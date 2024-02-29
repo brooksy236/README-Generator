@@ -8,7 +8,7 @@ function generateLicense(license) {
 
 // function to generate markdown for README
 function generateMarkdown(data) {
-  return `# ${data.title}
+  return `# **${data.title}**
 
    ${generateLicense(data.license)}
 
@@ -20,7 +20,7 @@ function generateMarkdown(data) {
   - [License](#license)
   - [Installation](#installation-instructions)
   - [Usage](#usage-information)
-  - [Contribution](#contributon-guidelines)
+  - [Contribution](#contribution-guidelines)
   - [Tests](#test-instructions)
   - [Questions](#questions)
 
@@ -30,7 +30,7 @@ function generateMarkdown(data) {
   ## Usage Information
   - ${data.usage}
 
-  ## Contributuon Guidelines
+  ## Contribution Guidelines
   - ${data.contribution}
 
   ## Test Instructions

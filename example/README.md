@@ -1,30 +1,30 @@
-# README Generator
+# **README Generator**
 
-   ![Github license](https://img.shields.io/badge/license-BSD3Clause-yellowgreen.svg)
+   ![Github license](https://img.shields.io/badge/license-MIT-yellowgreen.svg)
 
   ## Description
-  - Generates dynamic README files
+  - The README Generator dynamically generates a top notch README for you project with all the headings you need and a choice of licenses.
 
   ## Table of Contents
 
   - [License](#license)
   - [Installation](#installation-instructions)
   - [Usage](#usage-information)
-  - [Contribution](#contributon-guidelines)
+  - [Contribution](#contribution-guidelines)
   - [Tests](#test-instructions)
   - [Questions](#questions)
 
   ## Installation Instructions
-  - none
+  - No need to install, you just need to have Node.js on your machine to run it.
 
   ## Usage Information
-  - none
+  - You can use it for any project. This README was created with it!
 
-  ## Contributuon Guidelines
-  - none
+  ## Contribution Guidelines
+  - N/A
 
   ## Test Instructions
-  - none
+  - N/A
 
   ## Questions
 
@@ -33,4 +33,4 @@
   
 
   ## License
-  - BSD3Clause
+  - MIT
