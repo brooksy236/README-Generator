@@ -20,7 +20,11 @@
   ## Usage Information
   - You can use it for any project. This README was created with it!
    
+  ## Screenshot
+
    ![](assets/screenshot.JPG)
+
+  ## Demo Video
 
    [Demo video](assets/demo.mp4)
    
